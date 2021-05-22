@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tushar8194/tushar8194.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# Tushar Singhal
+### 6+ years in BigData Technologies using Hadoop, Spark, AWS Cloud with Scala.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+# SKILLS
 
-# Header 1
-## Header 2
-### Header 3
+Scala, Python, Java
 
-- Bulleted
-- List
+Hadoop, MapReduce, Spark Core, Spark SQL
 
-1. Numbered
-2. List
+Hive, Impala, Oozie, Yarn, HDFS
 
-**Bold** and _Italic_ and `Code` text
+AWS Cloud, S3, EC2, Lambda, EMR
 
-[Link](url) and ![Image](src)
+Git, Maven, Intellij, Jenkins, Ansible
+
+Agile: Project PI Planning and Sprint Planning and Estimatio
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tushar8194/tushar8194.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```markdown
+# EXPERIENCE
 
-### Support or Contact
+Societe Generale Global Solution Centre, Bangalore Specialist Software Engineer | Scrum Master
+April 2019 - PRESENT
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+Target Corporation India, Bangalore Data Engineer
+December 2017 - April 2019
+
+
+Tata Consultancy Services , Chennai BigData Developer
+August 2015 - December 2017
+```
+
+
+```markdown
+# LinkedIn 
+[Click](https://www.linkedin.com/in/tushar8194/)
+```
